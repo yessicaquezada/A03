@@ -1,1 +1,1 @@
-This is a sample but of content
+This is a sample bit of content
