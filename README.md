@@ -1,5 +1,5 @@
 # A03
-<!DOCTYPE html>
+
 <html lang="en">
 This is a sample bit of content
   
